@@ -42,8 +42,8 @@ In this world, the boundary between "online" and "offline" has disappeared. The 
 ## Links
 
 - [Figma (process, sketches, moodboard)](https://www.figma.com/board/s5T2WRuFKI2i1tYO5ayXpU/Core-Studio_Fall-2025-final?node-id=109-474&t=9WUZlGGd4hUHvqRT-0)
-- [GitHub repo](https://github.com/feliciatiffany/ProtocolNation_FutureAsSystem)
-- [Final website](https://feliciatiffany.github.io/ProtocolNation_FutureAsSystem/)
+- [GitHub repo](https://github.com/feliciatiffany/protocol-nation-projection-react)
+- [Final website](https://feliciatiffany.github.io/protocol-nation-projection-react/)
 
 ## Year
 
