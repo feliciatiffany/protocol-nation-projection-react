@@ -1,8 +1,4 @@
-const base = import.meta.env.BASE_URL.replace(/\/$/, "");
-import React, { useEffect } from "react";
-// https://react-spring.dev/docs/components/parallax
-import { Parallax, ParallaxLayer } from "@react-spring/parallax";
-import "./app.css";
+import "./App.css";
 
 export default function App() {
   // keep it simple; no observers or state
